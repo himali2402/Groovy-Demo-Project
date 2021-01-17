@@ -2,9 +2,4 @@
 Demo project
 adding some changes 
 adding new code
-ss
-ss
-ss
-change log
-dd
-ddd
+added git.groovy
